@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/billhop-test/static/css/main.2e7a1926.chunk.css",
+    "main.js": "/billhop-test/static/js/main.d05cf020.chunk.js",
+    "main.js.map": "/billhop-test/static/js/main.d05cf020.chunk.js.map",
+    "runtime-main.js": "/billhop-test/static/js/runtime-main.0da6c94d.js",
+    "runtime-main.js.map": "/billhop-test/static/js/runtime-main.0da6c94d.js.map",
+    "static/js/2.853d77dc.chunk.js": "/billhop-test/static/js/2.853d77dc.chunk.js",
+    "static/js/2.853d77dc.chunk.js.map": "/billhop-test/static/js/2.853d77dc.chunk.js.map",
+    "static/js/3.48c595a5.chunk.js": "/billhop-test/static/js/3.48c595a5.chunk.js",
+    "static/js/3.48c595a5.chunk.js.map": "/billhop-test/static/js/3.48c595a5.chunk.js.map",
+    "index.html": "/billhop-test/index.html",
+    "static/css/main.2e7a1926.chunk.css.map": "/billhop-test/static/css/main.2e7a1926.chunk.css.map",
+    "static/js/2.853d77dc.chunk.js.LICENSE.txt": "/billhop-test/static/js/2.853d77dc.chunk.js.LICENSE.txt",
+    "static/media/billhop-logo.35f6a439.svg": "/billhop-test/static/media/billhop-logo.35f6a439.svg",
+    "static/media/enterprise.4c6ec760.svg": "/billhop-test/static/media/enterprise.4c6ec760.svg",
+    "static/media/hero.0a4501dd.png": "/billhop-test/static/media/hero.0a4501dd.png",
+    "static/media/private.a08ab605.svg": "/billhop-test/static/media/private.a08ab605.svg",
+    "static/media/small_business.ccb0eb51.svg": "/billhop-test/static/media/small_business.ccb0eb51.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0da6c94d.js",
+    "static/js/2.853d77dc.chunk.js",
+    "static/css/main.2e7a1926.chunk.css",
+    "static/js/main.d05cf020.chunk.js"
+  ]
+}
